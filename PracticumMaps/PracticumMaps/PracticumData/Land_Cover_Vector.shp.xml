@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240129</CreaDate><CreaTime>13115600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20240129" Time="131156">RasterToPolygon Land_Cover_3ft.tif C:\Files\Hunter\GTECH_20100\Spatial_Data\Land_Cover_Vector.shp SIMPLIFY Type SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
